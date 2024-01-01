@@ -27,11 +27,8 @@ class About extends React.Component {
     );
     const two = (
       <p>
-        Outside of the professional arena, my curiosity extends to the latest breakthroughs in
-        science. I am avidly engaged in keeping pace with scientific developments, attending 
-        conferences, and exploring how technology intersects with various fields. When not immersed
-        in code, I find joy in the immersive realms of video games and board games, allowing me to
-        unwind and tap into my creative side.
+        Outside the realm of coding, I derive pleasure from exploring the captivating worlds of novels,
+        engaging in video games and board games.
       </p>
     );
 

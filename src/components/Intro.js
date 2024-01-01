@@ -28,24 +28,25 @@ class Intro extends React.Component {
         <FractalTree></FractalTree>
         <Typist avgTypingDelay={120}>
           <span className="intro-title">
-            {"hi, "}
-            <span className="intro-name">{"gazi"}</span>
+            {"Hi, "}
+            <span className="intro-name">{"Grey"}</span>
             {" here."}
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">I create stuff sometimes.</div>
+          <div className="intro-subtitle">Shaping the world with software</div>
           <div className="intro-desc">
-            I'm a software engineer from Toronto, Canada. I'm fascinated by
-            large-scale, high-impact products and contributed to major feature launches in
-            industry-leading services as well as apps that have 100M+ installs.
+            As a software engineer hailing from Nigeria, my fervor lies in crafting impactful solutions
+            tailored for businesses. I excel in the art of developing software that not only optimizes 
+            operational efficiency but also plays a pivotal role in fostering the growth and success 
+            of organizations
           </div>
           <a
-            href="mailto:gazijarin@gmail.com"
+            href="mailto:olalekan@linconwaves.com"
             className="intro-contact"
           >
             <EmailRoundedIcon></EmailRoundedIcon>
-            {" Say hi!"}
+            {" Say hello!"}
           </a>
         </FadeInSection>
       </div>
